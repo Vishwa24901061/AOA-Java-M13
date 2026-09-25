@@ -1,6 +1,6 @@
 # EX 3A N Queens Problem - Backtracking Approach.
 
-## DATE: 16-09-2026
+## DATE: 16/08/2026
 
 
 ## AIM:
@@ -30,6 +30,9 @@ Note:
 ## Program:
 
 ```java
+Developed by: Vishwa V
+Register Number:  212224110062
+
 import java.util.Scanner;
 
 public class NQueens {
