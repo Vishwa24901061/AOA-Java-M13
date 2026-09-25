@@ -1,6 +1,6 @@
 # EX 3B Rat in Maze- Backtracking
 
-## DATE: 16-09-2026
+## DATE: 16-08-2026
 
 ## AIM:
 
@@ -35,6 +35,9 @@ left → down → left → down → right → down → right.
 ## Program:
 
 ```java
+Developed by: Vishwa V
+Register Number:  212224110062
+
 import java.util.*;
 
 public class Main {
